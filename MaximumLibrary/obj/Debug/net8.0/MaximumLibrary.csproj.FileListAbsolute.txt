@@ -1,0 +1,11 @@
+C:\Users\aejis\source\repos\MaximumLibrary\bin\Debug\net8.0\MaximumLibrary.deps.json
+C:\Users\aejis\source\repos\MaximumLibrary\bin\Debug\net8.0\MaximumLibrary.dll
+C:\Users\aejis\source\repos\MaximumLibrary\bin\Debug\net8.0\MaximumLibrary.pdb
+C:\Users\aejis\source\repos\MaximumLibrary\obj\Debug\net8.0\MaximumLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aejis\source\repos\MaximumLibrary\obj\Debug\net8.0\MaximumLibrary.AssemblyInfoInputs.cache
+C:\Users\aejis\source\repos\MaximumLibrary\obj\Debug\net8.0\MaximumLibrary.AssemblyInfo.cs
+C:\Users\aejis\source\repos\MaximumLibrary\obj\Debug\net8.0\MaximumLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aejis\source\repos\MaximumLibrary\obj\Debug\net8.0\MaximumLibrary.dll
+C:\Users\aejis\source\repos\MaximumLibrary\obj\Debug\net8.0\refint\MaximumLibrary.dll
+C:\Users\aejis\source\repos\MaximumLibrary\obj\Debug\net8.0\MaximumLibrary.pdb
+C:\Users\aejis\source\repos\MaximumLibrary\obj\Debug\net8.0\ref\MaximumLibrary.dll
